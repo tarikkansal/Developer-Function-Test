@@ -1,0 +1,59 @@
+p{
+	color: black;
+    font-size:16px;
+	font-family: arial;
+	text-align:justify;
+}
+h1{
+	color: black;
+	font-family: arial;
+    }
+h2{
+	color: black;
+	font-family: arial;
+}
+h5{
+	color: black;
+	font-size:16px;
+	font-family: arial;
+}
+.header img {
+  float: left;
+  width: 200px;
+  height: 100px;
+}
+#extraContainer1{
+	position: relative;
+	z-index:100;
+	}
+
+#extraContainer11 {
+	display: none;
+	}
+
+section h1 {
+	line-height: 32px;
+	}
+
+section h2, section h3, section h4, section h5, section h6 {
+	line-height: normal;
+	}
+
+a{
+	color: #373737;
+	text-decoration: none;
+	}
+
+strong, b{
+	font-weight: bolder;
+	}
+
+em, i{
+	font-style: italic;
+	}
+
+p{
+	padding: 10px 0;
+	}
+
+ul, ol {}
